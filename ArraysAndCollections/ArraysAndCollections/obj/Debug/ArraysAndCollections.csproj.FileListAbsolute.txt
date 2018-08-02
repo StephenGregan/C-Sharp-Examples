@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\Ronan\source\repos\CSharpExamples\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb
